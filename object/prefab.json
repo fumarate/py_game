@@ -1,0 +1,124 @@
+{
+  "prefab": [
+    {
+      "name": "large_gold",
+      "res": "gold_l.png",
+      "value": 500,
+      "mass": 5,
+      "tags": [
+        "gold","good"
+      ],
+      "comment": "大金"
+    },
+    {
+      "name": "medium_gold",
+      "res": "gold_m.png",
+      "value": 250,
+      "mass": 3,
+      "tags": [
+        "gold"
+      ],
+      "comment": "中金"
+    },
+    {
+      "name": "small_gold",
+      "res": "gold_s.png",
+      "value": 50,
+      "mass": 2,
+      "tags": [
+        "gold"
+      ],
+      "comment": "小金"
+    },
+    {
+      "name": "large_stone",
+      "res": "stone_l.png",
+      "value": 60,
+      "mass": 5,
+      "tags": [
+        "stone","bad"
+      ],
+      "comment": "大石"
+    },
+    {
+      "name": "small_stone",
+      "res": "stone_s.png",
+      "value": 20,
+      "mass": 2,
+      "tags": [
+        "stone"
+      ],
+      "comment": "小石"
+    },
+    {
+      "name": "package",
+      "res": "package.png",
+      "value": 114514,
+      "mass": 100,
+      "tags": [
+        "package"
+      ],
+      "comment": "袋子"
+    },
+    {
+      "name": "diamond",
+      "res": "diamond.png",
+      "value": 600,
+      "mass": 1,
+      "tags": [
+        "diamond","good"
+      ],
+      "comment": "钻石"
+    },
+    {
+      "name": "power",
+      "res": "store/power.png",
+      "value": [200,400],
+      "mass": 0,
+      "tags": [
+        "store"
+      ],
+      "comment": "生力水。买了它以后，在下一关中你的力气将会增加，即抓东西的速度会增加。其功效为一关。"
+    },
+    {
+      "name": "bomb_s",
+      "res": "store/bomb.png",
+      "value": [1,200],
+      "mass": 0,
+      "tags": [
+        "store"
+      ],
+      "comment": "炸药。你买了它以后，当你抓到较重且钱不多的物品时，按下上方向键即可将它炸毁，以便节约时间。"
+    },
+    {
+      "name": "stone_book",
+      "res": "store/stone.png",
+      "value": [15,200],
+      "mass": 0,
+      "tags": [
+        "store"
+      ],
+      "comment": "石头收藏书。石头酱油三次机遇会变成相当有价值的物品。其功效为一关。"
+    },
+    {
+      "name": "diamond_wash",
+      "res": "store/diamond.png",
+      "value": [200,1000],
+      "mass": 0,
+      "tags": [
+        "store"
+      ],
+      "comment": "优质钻石。在下一关中钻石将变得相当值钱。其效用为一关。"
+    },
+    {
+      "name": "lucky",
+      "res": "diamond.png",
+      "value": [50,300],
+      "mass": 0,
+      "tags": [
+        "store"
+      ],
+      "comment": "幸运草。它将增强你在下一关中从色袋中取得好东西的机遇。其效用为一关。"
+    }
+  ]
+}

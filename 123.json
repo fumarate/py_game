@@ -1,0 +1,87 @@
+{
+  "map": {
+    "target": 650,
+    "objects": [
+      {
+        "type": "large_gold",
+        "x": 80,
+        "y": 215
+      },
+      {
+        "type": "large_gold",
+        "x": 80,
+        "y": 386
+      },
+      {
+        "type": "diamond",
+        "x": 59,
+        "y": 589
+      },
+      {
+        "type": "large_gold",
+        "x": 309,
+        "y": 249
+      },
+      {
+        "type": "diamond",
+        "x": 230,
+        "y": 437
+      },
+      {
+        "type": "large_gold",
+        "x": 460,
+        "y": 483
+      },
+      {
+        "type": "large_gold",
+        "x": 288,
+        "y": 617
+      },
+      {
+        "type": "diamond",
+        "x": 622,
+        "y": 563
+      },
+      {
+        "type": "large_gold",
+        "x": 624,
+        "y": 308
+      },
+      {
+        "type": "large_gold",
+        "x": 489,
+        "y": 291
+      },
+      {
+        "type": "diamond",
+        "x": 815,
+        "y": 360
+      },
+      {
+        "type": "large_gold",
+        "x": 651,
+        "y": 446
+      },
+      {
+        "type": "large_gold",
+        "x": 763,
+        "y": 546
+      },
+      {
+        "type": "large_gold",
+        "x": 927,
+        "y": 498
+      },
+      {
+        "type": "large_gold",
+        "x": 1044,
+        "y": 397
+      },
+      {
+        "type": "large_gold",
+        "x": 725,
+        "y": 224
+      }
+    ]
+  }
+}

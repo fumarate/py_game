@@ -1,0 +1,42 @@
+{
+    "map":{
+        "target":650,
+        "objects":[
+            {
+                "type":"large_gold",
+                "x":450,
+                "y":320
+            },
+            {
+                "type":"large_gold",
+                "x":640,
+                "y":660
+            },
+            {
+                "type":"medium_gold",
+                "x":511,
+                "y":456
+            },
+            {
+                "type":"large_stone",
+                "x":215,
+                "y":640
+            },
+            {
+                "type":"large_stone",
+                "x":128,
+                "y":700
+            },
+            {
+                "type":"small_stone",
+                "x":456,
+                "y":511
+            },
+            {
+                "type": "package",
+                "x": 500,
+                "y": 500
+            }
+        ]
+    }
+}
